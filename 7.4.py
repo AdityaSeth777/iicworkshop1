@@ -1,7 +1,6 @@
 
 from math import factorial
 
-
 # input n
 n = int(input("Enter the number of rows you want to print for Pascal's Triangle -> "))
 for i in range(n):
